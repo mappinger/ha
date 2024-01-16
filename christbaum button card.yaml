@@ -1,0 +1,7 @@
+type: custom:button-card
+show_name: true
+show_icon: true
+action: toggle
+entity: switch.christbaum
+icon: mdi:pine-tree
+size: 20%
